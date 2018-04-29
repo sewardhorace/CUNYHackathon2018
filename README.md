@@ -8,3 +8,6 @@ http://www.reactnativeexpress.com/component_api
 https://reactnavigation.org/docs/navigating.html
 
 https://docs.expo.io/versions/v27.0.0/guides/using-firebase
+
+git:
+https://www.learnhowtoprogram.com/css/team-week/git-with-collaborators-workflow
